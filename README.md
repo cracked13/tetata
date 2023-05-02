@@ -218,11 +218,11 @@
     },
  {
       "title": "Sonic",
-      "id": 26,
+      "id": 27,
       "description": "A Sonic Theme",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://images3.alphacoders.com/820/82029.jpg"
+      "imageURL": "https://media.tenor.com/yyofCYnEXksAAAAC/sonic-the-hedgehog-classic-sonic.gif"
     },
   ]
 }
