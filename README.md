@@ -19,7 +19,7 @@
     {
       "title": "Sakpot Delta Theme",
       "id": 3,
-      "description": "Hehe Sadly Delta is superior to evon",
+      "description": "Hehe Sadly Sinister Z is superior to evon",
       "status": "Meme",
       "opacity": 0.4,
       "imageURL": "https://i.ytimg.com/vi/QljAIbWCj0s/maxresdefault.jpg"
@@ -43,7 +43,7 @@
     {
       "title": "JJsploit theme",
       "id": 6,
-      "description": "Ever wanted the WRD feeling back on delta?",
+      "description": "Ever wanted the WRD feeling back on Sinister Z?",
       "status": "Meme",
       "opacity": 0.45,
       "imageURL": "https://cdn.wearedevs.net/images/pages/jjsploit/JJSploit%20v6%20Buttons%20Page.png"
@@ -233,12 +233,12 @@
       "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228762526331020/936807.png"
     },
  {
-      "title": "Luffy Hat",
+      "title": "Demon Slayer Eyes",
       "id": 29,
-      "description": "A Luffy Hat fron One piece",
+      "description": "A Demon Slayer Theme",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228769648255056/1220664.png"
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078311126162485288/1218909.png"
     },
  {
       "title": "idk",
