@@ -226,27 +226,27 @@
     },
  {
       "title": "Sonic",
-      "id": 27,
-      "description": "A Sonic Theme",
+      "id": 28,
+      "description": "Another Sonic Theme",
+      "status": "Mixed",
+      "opacity": 0.7,
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228762526331020/936807.png"
+    },
+ {
+      "title": "Luffy Hat",
+      "id": 29,
+      "description": "A Luffy Hat fron One piece",
       "status": "Mixed",
       "opacity": 0.7,
       "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228769648255056/1220664.png"
     },
  {
-      "title": "Sonic",
-      "id": 27,
-      "description": "A Sonic Theme",
+      "title": "idk",
+      "id": 30,
+      "description": "idk what is this",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228769648255056/1220664.png"
-    },
- {
-      "title": "Sonic",
-      "id": 27,
-      "description": "A Sonic Theme",
-      "status": "Mixed",
-      "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228769648255056/1220664.png"
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078476316225056778/1270603.png"
     },
  {
       "title": "Sonic",
