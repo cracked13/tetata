@@ -244,33 +244,33 @@
       "title": "idk",
       "id": 30,
       "description": "idk what is this",
-      "status": "Mixed",
+      "status": "Dark",
       "opacity": 0.7,
       "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078476316225056778/1270603.png"
     },
  {
-      "title": "Sonic",
+      "title": "idk",
       "id": 27,
-      "description": "A Sonic Theme",
-      "status": "Mixed",
+      "description": "same lol",
+      "status": "Dark",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228769648255056/1220664.png"
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078476314660585612/1270598.png"
     },
  {
-      "title": "Sonic",
+      "title": "idk",
       "id": 27,
-      "description": "A Sonic Theme",
-      "status": "Mixed",
+      "description": "same of same",
+      "status": "Light",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228769648255056/1220664.png"
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078475677566771312/527258.png"
     },
  {
-      "title": "Sonic",
+      "title": "Idk ",
       "id": 27,
-      "description": "A Sonic Theme",
+      "description": "A Atack on Titans theme",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228769648255056/1220664.png"
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078440604213710908/1255554.png"
     },
  {
       "title": "Sonic",
